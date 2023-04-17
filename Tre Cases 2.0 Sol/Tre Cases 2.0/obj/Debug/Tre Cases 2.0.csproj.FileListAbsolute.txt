@@ -1,0 +1,12 @@
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\bin\Debug\Tre Cases 2.0.exe.config
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\bin\Debug\Tre Cases 2.0.exe
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\bin\Debug\Tre Cases 2.0.pdb
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\obj\Debug\Tre Cases 2.0.csproj.AssemblyReference.cache
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\obj\Debug\Tre Cases 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\obj\Debug\Tre Cases 2.0.csproj.CoreCompileInputs.cache
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\obj\Debug\Tre Cases 2.0.exe
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\obj\Debug\Tre Cases 2.0.pdb
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\bin\Debug\Klasser.pdb
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\obj\Debug\Tre Cases 2.0.csproj.CopyComplete
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\bin\Debug\Klasser.dll
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Tre Cases 2.0\bin\Debug\Klasser.dll.config

@@ -1,0 +1,3 @@
+C:\Users\mikchr\source\repos\Tre Cases\Klasser\obj\Debug\Klasser.csproj.AssemblyReference.cache
+C:\Users\mikchr\source\repos\Tre Cases\Klasser\obj\Debug\Klasser.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikchr\source\repos\Tre Cases\Klasser\obj\Debug\Klasser.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\obj\Release\Klasser.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\obj\Release\Klasser.csproj.CoreCompileInputs.cache

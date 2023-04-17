@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tre Cases 2.0", "Tre Cases 2.0\Tre Cases 2.0.csproj", "{47303832-2D38-4A2F-AE3D-1F8FBCB0E60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser", "Klasser\Klasser.csproj", "{7BD8FE5A-FA1F-4850-886A-ECBD64AEC860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47303832-2D38-4A2F-AE3D-1F8FBCB0E60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47303832-2D38-4A2F-AE3D-1F8FBCB0E60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47303832-2D38-4A2F-AE3D-1F8FBCB0E60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47303832-2D38-4A2F-AE3D-1F8FBCB0E60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD8FE5A-FA1F-4850-886A-ECBD64AEC860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD8FE5A-FA1F-4850-886A-ECBD64AEC860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD8FE5A-FA1F-4850-886A-ECBD64AEC860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD8FE5A-FA1F-4850-886A-ECBD64AEC860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8657B92D-7E68-4FEE-AA86-B6FA276EB385}
+	EndGlobalSection
+EndGlobal

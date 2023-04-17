@@ -1,0 +1,7 @@
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\bin\Debug\Klasser.pdb
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\obj\Debug\Klasser.csproj.CoreCompileInputs.cache
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\obj\Debug\Klasser.pdb
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\obj\Debug\Klasser.csproj.AssemblyReference.cache
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\bin\Debug\Klasser.dll.config
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\bin\Debug\Klasser.dll
+C:\Users\mikchr\source\repos\Tre Cases 2.0 Sol\Klasser\obj\Debug\Klasser.dll

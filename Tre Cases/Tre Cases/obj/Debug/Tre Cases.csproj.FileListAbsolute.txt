@@ -1,0 +1,3 @@
+C:\Users\mikchr\source\repos\Tre Cases\Tre Cases\obj\Debug\Tre Cases.csproj.AssemblyReference.cache
+C:\Users\mikchr\source\repos\Tre Cases\Tre Cases\obj\Debug\Tre Cases.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikchr\source\repos\Tre Cases\Tre Cases\obj\Debug\Tre Cases.csproj.CoreCompileInputs.cache
